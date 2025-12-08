@@ -78,8 +78,9 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebrat222&theme=react&hide_border=true)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrat222&theme=react&langs_count=8&layout=compact&hide_border=true)](https://github.com/Ebrat222)
-  
+  __
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebrat222&theme=react&langs_count=8&layout=compact)](https://github.com/Ebrat222)<br/> 
+
 </div>
 
 ## 🎯 Today's Quote
