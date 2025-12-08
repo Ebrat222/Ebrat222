@@ -84,9 +84,7 @@
 
 ## 🎯 Today's Quote
 
-<p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🎨 Hobbies & Interests
 
