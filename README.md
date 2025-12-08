@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=EBRAT%20HOSSEN&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=53&descAlign=62)
 
-<h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Belanosima&weight=900&size=25&duration=3000&pause=2000&color=blue&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Ebrat;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
+<h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Belanosima'%2C+sans-serif&weight=900&size=25&duration=3000&pause=2000&color=blue&width=435&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Ebrat;Nice+to+meet+you!+%F0%9F%98%8A)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
