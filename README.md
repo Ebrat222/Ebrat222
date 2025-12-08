@@ -41,7 +41,7 @@
   <a href="https://t.me/Ebrat_official">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=25>
   </a>
-  <a href="https://codeforces.com/profile/alfrednti">
+  <a href="https://codeforces.com/profile/Ebrat">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
   </a>
   <a href="https://twitter.com/EbratHasan">
