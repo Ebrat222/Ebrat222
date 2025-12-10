@@ -75,8 +75,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ebrat222&theme=react&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ebrat222&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
