@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ebrat222&theme=dark)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ebrat222?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
